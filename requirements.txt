@@ -1,3 +1,5 @@
-numpy
 matplotlib
+numpy
+pandas
 pyspark
+ipykernel

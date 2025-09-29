@@ -2,3 +2,4 @@ resources/dataset/archive
 resources/archive
 venv/
 .python-version
+.DS_STORE
